@@ -1,0 +1,29 @@
+.lt15-jumbotron {
+	background-image: url("battersea.jpg");     background-position: center top; 
+	height: 36em;
+	color: #1a1a1a;
+	text-align: right;
+}
+
+.lt15-title {
+	font-weight: 900;
+}
+
+.lt15-date {
+	font-weight: 500;
+}
+
+.lt15-cfp {
+	font-size: 120%;
+}
+
+body {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+footer {
+	padding-top: 10em;
+	font-size: 80%;
+	text-align: center;
+}
