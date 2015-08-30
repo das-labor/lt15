@@ -14,7 +14,18 @@
 }
 
 .lt15-cfp {
+	padding-top: 5em;
 	font-size: 120%;
+}
+
+.lt15-was {
+	font-size: 120%;
+	text-align: center;
+}
+
+.lt15-was h2 {
+	font-weight: 800;
+	padding-bottom: .5em;
 }
 
 body {
