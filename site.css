@@ -5,7 +5,7 @@
 	text-align: right;
 }
 
-.lt15-title {
+.lt15-title, .lt15-brand{
 	font-weight: 900;
 }
 
@@ -13,17 +13,17 @@
 	font-weight: 500;
 }
 
-.lt15-cfp {
+.lt15-cfp, .lt15-wo {
 	padding-top: 5em;
 	font-size: 120%;
 }
 
-.lt15-was {
+.lt15-was, .lt15-wo {
 	font-size: 120%;
 	text-align: center;
 }
 
-.lt15-was h2 {
+.lt15-was h2, .lt15-wo h2 {
 	font-weight: 800;
 	padding-bottom: .5em;
 }
