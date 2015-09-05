@@ -39,3 +39,34 @@ footer {
 	font-size: 80%;
 	text-align: center;
 }
+
+.lt15-tt {
+	display: table;
+}
+
+.lt15-tt-row {
+	display: table-row;
+}
+
+.lt15-tt-left {
+	display: table-cell;
+	text-align: right;
+}
+
+.lt15-tt-right {
+	display: table-cell;
+	text-align: left;
+	width: 48%;
+}
+
+.lt15-tt-timeline {
+	display: table-cell;
+	text-align: center;
+	width: 30px;
+	background: url("timeline.png") center repeat-y
+}
+
+.lt15-tt-timeline::before {
+	content: "\25cf";
+	font-size: 30px;
+}
