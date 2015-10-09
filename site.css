@@ -76,3 +76,7 @@ footer {
 	content: "\25cf";
 	font-size: 30px;
 }
+
+.lt15-event-title:hover {
+        font-weight: 500;
+}
