@@ -6,12 +6,18 @@
 	text-align: right;
 }
 
+.lt15-logo {
+        width: 300px;
+        margin-bottom: 20px;
+        border-radius: 5px; 
+}
+
 .lt15-title, .lt15-brand{
 	font-weight: 900;
 }
 
 .lt15-date {
-	font-weight: 500;
+	font-weight: 500 !important;
 }
 
 .lt15-cfp, .lt15-wo {
